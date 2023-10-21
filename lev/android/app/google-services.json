@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535596220111",
+    "project_id": "levv-dde63",
+    "storage_bucket": "levv-dde63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535596220111:android:32c23acd31254a9a1b81ba",
+        "android_client_info": {
+          "package_name": "com.example.lev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1P104qV1CHNkP7UHAqP-9qnxkb5-Rhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
